@@ -1,0 +1,1 @@
+# magnify-product-card-javascript
